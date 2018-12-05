@@ -30,3 +30,31 @@
 .top-header {
   margin-top: 0px;
 }
+
+
+.superscript {
+  vertical-align: super;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.blinking{
+    animation:blinkingText 2s infinite;
+    color: #fff;
+}
+@keyframes blinkingText{
+    0%{     color: #ffffff ;    }
+    25%{    color: transparent; }
+    
+    75%{   color: #ffffff;    }
+}
+
+
+
+.smaller-70-rem{
+  font-size: 0.7rem;
+  
+}
+
+ 
