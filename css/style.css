@@ -7,6 +7,14 @@
  */
 
 
+ .blue {
+  background-color: #1417e4 !important;
+}
+
+.blue-text {
+  color: #1417e4 !important;
+}
+
  h5 {
    font-size: 2rem;
    line-height: 150%
