@@ -80,7 +80,7 @@ a {
 .logo-okf {
   height: 100px;
   display: inline-block;
-
+  margin-bottom: 30px;
 }
 
 .logo-edl {
@@ -88,4 +88,5 @@ a {
   margin-bottom: 20px;
   margin-left: 50px;
   display: inline-block;
+  margin-bottom: 50px;
 }
