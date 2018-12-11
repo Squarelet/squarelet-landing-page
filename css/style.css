@@ -77,3 +77,15 @@ a {
   background-color: rgba(83, 130, 232, 0.3)
 }
 
+.logo-okf {
+  height: 100px;
+  display: inline-block;
+
+}
+
+.logo-edl {
+  height: 60px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  display: inline-block;
+}
