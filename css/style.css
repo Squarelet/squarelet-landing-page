@@ -90,3 +90,13 @@ a {
   display: inline-block;
   margin-bottom: 50px;
 }
+
+
+.deprecation-banner {
+    padding: 10px 30px;
+}
+
+.deprecation-banner__content {
+    border-left: 4px solid #1417e4;
+    padding-left: 8px;
+}
